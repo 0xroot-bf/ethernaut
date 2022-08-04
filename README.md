@@ -1,4 +1,16 @@
-![./images/ethernaut.png](Image courtesy of Ethernauts)
+# Security Pills
+![Security Pills Newsletter](https://media.beehiiv.net/uploads/asset/file/40ef9f62-9188-41e8-becf-3f767974916b/logo-linkedin.png)
+Hey, this is part of the [Security Pills Newsletter](https://securitypills.news/) project:
+
+> Staying up to date with all the different news occuring in the industry is near impossible. I created this curated list to help you solve that problem.
+
+> The Security Pills Newsletter is a hand curated list that brings you the news, latest research, tips, and vulnerabilities focused to the appsec and smart contract landscape.
+
+> Once subscribed, you will receive every Monday an email with the most significant links. Sometimes I also write [blog posts](https://securitypills.news/articles) on technical stuff or about anything else of interest to me.
+
+
+# Ethernaut Challenges
+![Ethernaut](./images/ethernaut.png)
 
 [Ethernaut](https://ethernaut.openzeppelin.com/) is OpenZeppelin Web3/Solidity based wargame to learn about Ethereum smart contract security and become familiar with programming principles in [Solidity](https://docs.soliditylang.org/en/v0.8.15/).
 
@@ -11,3 +23,5 @@ This repository is my little contribution to those interested on learning the ba
 You can find my solutions on this repository and a detailed walkthrough for each separate challenge in my [blog](https://securitypills.news/articles/ethernaut/).
 
 Let's go over these Ethernaut's challenges and learn few security aspects of smart contracts written in Solidity!
+
+

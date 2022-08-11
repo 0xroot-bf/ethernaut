@@ -7,4 +7,4 @@
 ./challenges/force-07/.env
 ./challenges/vault-08/.env
 ./challenges/king-09/.env
-
+./challenges/reentrancy-10/.env
